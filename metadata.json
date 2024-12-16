@@ -1,10 +1,10 @@
 {
-	"author": "Bludit",
+	"author": "Bludit / MeganerdNL",
 	"email": "",
-	"website": "https://themes.bludit.com",
-	"version": "3.16.2",
-	"releaseDate": "2024-08-23",
+	"website": "https://github.com/MeganerdNL/blogx-dark",
+	"version": "1.0.0",
+	"releaseDate": "2024-12-16",
 	"license": "MIT",
 	"compatible": "3.16.2",
-	"notes": ""
+	"notes": "This is a fork from the original Blog X theme"
 }
