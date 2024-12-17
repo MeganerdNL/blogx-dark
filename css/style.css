@@ -157,3 +157,7 @@ footer {
 .bi {
 	margin-right: .5rem !important;
 }
+
+.text-warning {
+    display: none;
+}
