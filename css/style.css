@@ -8,6 +8,29 @@ body {
 	padding-top: 56px;
 	/* Margin bottom for footer height */
 	margin-bottom: 60px;
+        background-color: #666666;
+}
+
+a {
+    color: #b3b300;
+}
+
+a:hover {
+    color: #ffff00;
+}
+
+div.card-body-title a {
+    color: #f2f2f2;
+    text-decoration: none;
+}
+
+div.card-body-title a:hover {
+    color: #a6a6a6;
+    text-decoration: none;
+}
+
+div.container {
+    color:  #f2f2f2;
 }
 
 section {
@@ -16,6 +39,16 @@ section {
 
 img {
 	max-width: 100%;
+}
+
+div.card-body-title {
+        background-color: #666666;
+        color: #f2f2f2;
+}
+
+div.card-body {
+        background-color: #666666;
+        color: #f2f2f2;
 }
 
 
@@ -63,9 +96,14 @@ td {
 	padding: 0.5em 1em;
 }
 
+h6.card-subtitle {
+        color: #a6a6a6 !important;
+}
+
 h1.title,
 h2.title {
 	font-size: 2.3rem;
+        color: #f2f2f2;
 }
 
 blockquote {

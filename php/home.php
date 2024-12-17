@@ -16,11 +16,13 @@
       <img class="card-img-top mb-3 rounded-0" alt="Cover Image" src="<?php echo $page->coverImage(); ?>" />
     <?php endif ?>
 
-    <div class="card-body p-0">
+    <div class="card-body-title p-0">
       <!-- Title -->
-      <a class="text-dark" href="<?php echo $page->permalink(); ?>">
-        <h2 class="title"><?php echo $page->title(); ?></h2>
+      <a href="<?php echo $page->permalink(); ?>">
+        <h2><?php echo $page->title(); ?></h2>
       </a>
+    </div>
+    <div class="card-body p-0">
 
       <!-- Creation date -->
       <h6 class="card-subtitle mt-1 mb-4 text-muted">
