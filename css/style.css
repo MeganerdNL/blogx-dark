@@ -20,17 +20,17 @@ a:hover {
 }
 
 div.card-body-title a {
-    color: #f2f2f2;
+    color: #e6e6e6;
     text-decoration: none;
 }
 
 div.card-body-title a:hover {
-    color: #a6a6a6;
+    color: #b3d9ff;
     text-decoration: none;
 }
 
 div.container {
-    color:  #f2f2f2;
+    color:  #e6e6e6;
 }
 
 section {
@@ -43,12 +43,12 @@ img {
 
 div.card-body-title {
         background-color: #666666;
-        color: #f2f2f2;
+        color: #e6e6e6;
 }
 
 div.card-body {
         background-color: #666666;
-        color: #f2f2f2;
+        color: #e6e6e6;
 }
 
 
@@ -103,7 +103,7 @@ h6.card-subtitle {
 h1.title,
 h2.title {
 	font-size: 2.3rem;
-        color: #f2f2f2;
+        color: #e6e6e6;
 }
 
 blockquote {
