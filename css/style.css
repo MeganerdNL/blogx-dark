@@ -20,12 +20,12 @@ a:hover {
 }
 
 div.card-body-title a {
-    color: #e6e6e6;
+    color: #ffcc00;
     text-decoration: none;
 }
 
 div.card-body-title a:hover {
-    color: #b3b300;
+    color: #ffff00;
     text-decoration: none;
 }
 
