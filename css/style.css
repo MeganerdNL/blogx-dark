@@ -29,6 +29,10 @@ div.card-body-title a:hover {
     text-decoration: none;
 }
 
+div[class*="card"] {
+    background-color:#666666;
+}
+
 div.container {
     color:  #e6e6e6;
 }
